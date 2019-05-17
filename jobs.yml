@@ -5,13 +5,13 @@ jobs:
   - name: daily_usage_update
     template: daily_usage_update
     css: example
-    to_email: dylan+to@dbanalytics.co
-    from_email: dylan+from@dbanalytics.co
+    to_email: dylan@dbanalytics.co
+    from_email: stephenfrom@dbanalytics.co
     subject: Check out this Agent K email!
 
   - name: monthly_usage_update
     template: daily_usage_update
     css: example
-    to_email: dylan+to@dbanalytics.co
-    from_email: dylan+from@dbanalytics.co
+    to_email: robin@dbanalytics.co
+    from_email: john@dbanalytics.co
     subject: Check out this other Agent K email!
