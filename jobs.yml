@@ -15,3 +15,11 @@ jobs:
     to_email: robin@dbanalytics.co
     from_email: john@dbanalytics.co
     subject: Check out this other Agent K email!
+
+
+  - name: monthly_usage_update_v2
+    template: daily_usage_update
+    css: example
+    to_email: robin@dbanalytics.co
+    from_email: john@dbanalytics.co
+    subject: Check out this other Agent K email!
